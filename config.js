@@ -28,7 +28,7 @@
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
   name: "ANUSHKAAAAAA",
-  photo: "./img/irene.jpg",       // Place your photo in the img/ folder
+  photo: "./img/crazy.jpg",       // Place your photo in the img/ folder
   music: "./music/bemybaby.mp3",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
