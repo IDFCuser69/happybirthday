@@ -27,7 +27,7 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "Irene",
+  name: "ANUSHKAAAAAA",
   photo: "./img/irene.jpg",       // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder
 
@@ -55,22 +55,22 @@ const CONFIG = {
   sections: [
     {
       type: "greeting",
-      title: "Hi",
-      subtitle: "I really like your name btw!",
+      title: "HIEEEEEEE🌻😝",
+      subtitle: "I really like your name btw (Rakshassss)"
     },
     {
       type: "countdown",
       from: 3,                    // Countdown from this number
-      goText: "🎉",              // Text shown after countdown ends
+      goText: "🌻🌻💕🥹",              // Text shown after countdown ends
     },
     {
       type: "announcement",
-      text: "It's your birthday!! :D",
+      text: "ITSSSS YOURRRR BIRTHDAYYYYYYY",
     },
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
+        "HIEEEEE ANUSHKAAAAAAAABSHWHAHAHAHAHA, to to to eventually apna bhi 1 year complete hogya, yaad hai kaise i texted you pheli bar aapke birthday se 2days phele BWHAHAHAHAHAA LIKE A DUMB GUY 😝and phir waha se we're here together yaayayayayayayayayayay. Tere sath sab kuch best tha and best hai meri life mein. Immmmm go grateful to have you in myyyylifeeee. can’t express how happy I feel with you every second. From our late night calls to texting, laughing for no reason, annoying you, ragebaiting you, and then showing Nakhre just to get your attention, I’ll always say this you are the best thing in my life. THANKYOUUUUU FOR EVERYTHINGGGG MYLOVEEEEEE ILOVEEEYOUUUUUSOOOMUCHHHHHHH AND YESSSSS HAPPPYYYYYY BIRTHDAYYYYYYYY  BABYYYYYYY",
       buttonText: "Send",
     },
     {
@@ -80,7 +80,7 @@ const CONFIG = {
         "But then I stopped.",
         "I realised, I wanted to do something <strong>special</strong>.",
         "Because,",
-        "You are Special <span>:)</span>",
+        "YOU ARE SPECIAL:3 AND YOU DESERVE EVERYTHING MYYLOVEEE <span>:)</span>",
       ],
       bigLetters: "SO",
     },
@@ -99,8 +99,8 @@ const CONFIG = {
     },
     {
       type: "profile",
-      wishTitle: "Happy Birthday!",
-      wishText: "May the js.prototypes always be with you! ;)",
+      wishTitle: "HAPPYYY BIRTHDAYYY",
+      wishText: "Hamesha mere Nakhre enjoy karo aur mere sath raho with random weird cute se nickname hahahahahaha",
     },
     {
       type: "fireworks",
