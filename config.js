@@ -80,7 +80,7 @@ const CONFIG = {
         "But then I stopped.",
         "I realised, I wanted to do something <strong>special</strong>.",
         "Because,",
-        "YOU ARE SPECIAL:3 AND YOU DESERVE EVERYTHING MYYLOVEEE <span>:)</span>",
+        "YOU ARE SPECIAL:3 AND YOU DESERVE EVERYTHING MYYLOVEEE, ILOVEEEYOUUUSOOOMUCHH. Every second I spend with you is important to me and always will be. Every conversation of ours matters and always will. I’m truly thankful for everything for having you in my life, by my side, and for everything you’ve done for me. <span>:)</span>",
       ],
       bigLetters: "SO",
     },
@@ -100,7 +100,7 @@ const CONFIG = {
     {
       type: "profile",
       wishTitle: "HAPPYYY BIRTHDAYYY",
-      wishText: "Hamesha mere Nakhre enjoy karo aur mere sath raho with random weird cute se nickname hahahahahaha, really thank you everything💕🥹",
+      wishText: "Hamesha mere Nakhre uthaya karo aur kya bahwhahahaaaha🤭🌻🌻, really thank you everything💕🥹",
     },
     {
       type: "fireworks",
